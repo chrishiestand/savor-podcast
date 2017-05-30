@@ -1,0 +1,216 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+    margin:0 auto; padding:0;
+	}	
+
+div#mainContain {
+    width:1000px;
+    height:auto;
+    margin:0 auto;
+    }
+	
+#contentWrap{
+	min-width:1000px;
+	width:100%;
+	height:auto;
+	float:left;
+	margin:0 auto;
+	padding:0;		
+	}  	
+	
+#bodyContain {
+	width:1000px;
+	height:auto;
+	margin:0 auto;
+	}
+	
+#footContain {
+    width:1000px;
+    height:auto;
+    margin:0 auto;
+    }
+	
+#header {
+	width:1000px;
+	height:auto;
+	margin:0;
+	float:left;
+	}	
+		
+#nav {
+	width:1000px;
+	height: auto;
+	margin:0px;
+	float:left;
+	padding:0px 0px 15px 0px;
+	}
+
+#footer {
+	width:100%;
+	height:auto;
+	}	
+
+/* =Caption, Images and Alignments
+-------------------------------------------------------------- */
+#contentb {
+	background-color: #ffffff;
+	background-repeat: repeat;
+	width:1000px;
+	height:auto;
+	float:left;
+	margin:0px;
+	padding:10px 0px 20px 0px;
+	}
+
+#contentInnerb {
+	margin: 0px 0px 0px 0px;
+	float: left;
+	width: 1000px;
+	display:inline;
+}
+
+#contentInnerb .blog_posts {
+	margin: 0;
+	float: left;
+	padding:0px 30px 0px 0px;
+	width: 713px;
+	display:inline;
+	/*border-right:2px solid #edeee3;*/
+}
+
+#contentInnerb .blog_sidebar {
+	margin: 0;
+	float: right;
+	width: 252px;
+	padding:0px 0px 0px 5px;
+	display:inline;
+}
+
+#contentInnerb .blog_sidebar ol,ul,li{
+	margin: 0;
+	padding:0;
+	list-style-type:none;
+}
+img.alignleft {
+	margin-right: 20px;
+	margin-bottom: 20px;
+}
+img.alignright {
+	margin-left: 20px;
+	margin-bottom: 20px;
+}
+img.size-auto, 
+img.size-full, 
+img.size-large, 
+img.size-medium, 
+.attachment img {
+	max-width: 100%; /* When images are too wide for containing element, force them to fit. */
+	height: auto; /* Override height to match resized width for correct aspect ratio. */
+}
+
+.alignright {
+	float: right;
+	text-align:right;
+	margin:0px;
+	width: auto;
+	}
+
+.alignleft {
+	float: left;
+	text-align:left;
+	margin:0px;
+	width: auto;
+	}
+	
+.navigation {
+	padding: 0px 0px 15px 0px;
+	}
+
+/*remove navigation before and after on comments*/
+/*#access, #branding img, #respond, .comment-edit-link, .edit-link, .navigation, .page-link, .widget-area {
+	display: none !important;
+}*/
+
+/* Social-Search */
+.social-search ul.social-profile li a {
+	text-indent: -99999px;
+}
+.social-search {
+	float: left;
+	width: 252px;
+	padding-right: 0px;
+	margin-top: 0px;
+}
+.social-search ul.social-profile {
+	float: left;
+	list-style: none;
+	margin: -10px 0 0;
+}
+.social-search ul.social-profile li {
+	float: left;
+    margin-left: 0px;
+	margin-top: 10px;
+}
+.social-search ul.social-profile li a {
+	background: url(../images/social-profile.png) right bottom no-repeat;
+    display: block;
+	height: 33px;
+    width: 33px;
+	text-indent: -99999px;
+
+}
+.social-search ul.social-profile li.facebook a {
+	background-position: 0 0;
+}
+.social-search ul.social-profile li.facebook a:hover {
+	background-position: 0 -43px;
+}
+.social-search ul.social-profile li.twitter a {
+	background-position: -44px 0;
+}
+.social-search ul.social-profile li.twitter a:hover {
+	background-position: -44px -43px;
+}
+.social-search ul.social-profile li.rss a {
+	background-position: -87px 0;
+}
+.social-search ul.social-profile li.rss a:hover {
+	background-position: -87px -43px;
+}
+.social-search ul.social-profile li.google-plus a {
+	background-position: -130px 0;
+}
+.social-search ul.social-profile li.google-plus a:hover {
+	background-position: -130px -43px;
+}
+.social-search ul.social-profile li.pinterest a {
+	background-position: -173px 0;
+}
+.social-search ul.social-profile li.pinterest a:hover {
+	background-position: -173px -43px;
+}
+.social-search ul.social-profile li.instagram a {
+	background-position: -216px 0;
+}
+.social-search ul.social-profile li.instagram a:hover {
+	background-position: -216px -43px;
+}
+
+/* =Widget Areas
+-------------------------------------------------------------- */
+/* Main sidebars */
+#about{
+  /*background: url('../images/bg-about.gif') no-repeat;*/
+  width: 237px;
+  height: 240px;
+  padding: 15px 0 0 22px;
+}
+
+#sidebar .about-pic {
+	float: left;
+	width: 306px;
+	padding-right: 0px;
+	margin-top: 0px;
+}

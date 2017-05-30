@@ -1,0 +1,621 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
+xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0/play-podcasts.xsd"
+>
+<channel>
+	<title>Savor Podcast</title>
+	<atom:link href="http://savorpodcast.com/feed/podcast/" rel="self" type="application/rss+xml" />
+	<link>http://savorpodcast.com</link>
+	<description>The hosts of Savor, Danielle Beck-Ellsworth, PsyD MFT CEDS and Kelly Hinds RD LD CEDRD explore topics that are related to health, body image, nutrition, and mindfulness.  Myths and misconceptions about dieting, obesity, and thinness are questioned and confronted. Dr. Beck-Ellsworth as a therapist and professor and Kelly as a dietitian, bring their years of experience to Savor to debate, discuss and sometimes disagree about the health messages in Western media. For more information about Savor, visit savorpodcast.com</description>
+	<lastBuildDate>Tue, 29 Nov 2016 23:20:15 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+		<generator>https://wordpress.org/?v=4.7.3</generator>
+<!-- podcast_generator="Blubrry PowerPress/7.0.4 beta" mode="advanced" feedslug="podcast" -->
+	<itunes:summary>The hosts of Savor, Danielle Beck-Ellsworth, PsyD MFT CEDS and Kelly Hinds RD explore topics that are related to health, body image, nutrition, and mindfulness.  Myths and misconceptions about dieting, obesity, and thinness are questioned and confronted. Dr. Beck-Ellsworth as a therapist and professor and Kelly as a dietitian, bring their years of experience to Savor to debate, discuss and sometimes disagree about the health messages in Western media. For more information about Savor, visit savorpodcast.com</itunes:summary>
+	<itunes:author>Danielle Beck-Ellsworth PsyD MFT CEDS &amp; Kelly Hinds RD LD; a combined 26 years of eating disorder expertise</itunes:author>
+	<itunes:explicit>clean</itunes:explicit>
+	<itunes:image href="https://storage.googleapis.com/savor-podcast/savor-logo-1400x1400.jpg" />
+	<itunes:owner>
+		<itunes:name>Danielle Beck-Ellsworth PsyD MFT CEDS &amp; Kelly Hinds RD LD; a combined 26 years of eating disorder expertise</itunes:name>
+		<itunes:email>info@savorpodcast.com</itunes:email>
+	</itunes:owner>
+	<managingEditor>info@savorpodcast.com (Danielle Beck-Ellsworth PsyD MFT CEDS &amp; Kelly Hinds RD LD; a combined 26 years of eating disorder expertise)</managingEditor>
+	<itunes:subtitle>Danielle Beck-Ellsworth PsyD MFT CEDS &amp; Kelly Hinds RD LD; a combined 26 years of eating disorder expertise</itunes:subtitle>
+	<image>
+		<title>Savor Podcast</title>
+		<url>https://storage.googleapis.com/savor-podcast/savor-logo-1400x1400.jpg</url>
+		<link>http://savorpodcast.com</link>
+	</image>
+	<itunes:category text="Health">
+		<itunes:category text="Self-Help" />
+		<itunes:category text="Fitness &amp; Nutrition" />
+	</itunes:category>
+	<rawvoice:subscribe feed="http://savorpodcast.com/feed/podcast/" html="https://itunes.apple.com/us/podcast/savor-podcast/id755509884" itunes="http://savorpodcast.com/feed/podcast/"></rawvoice:subscribe>
+	<item>
+		<title>Do You Want The Good News First?</title>
+		<link>http://savorpodcast.com/do-you-want-the-good-news-first/</link>
+		<pubDate>Tue, 18 Oct 2016 00:13:31 +0000</pubDate>
+		<guid isPermaLink="false">http://savorpodcast.com/?p=836</guid>
+		<comments>http://savorpodcast.com/do-you-want-the-good-news-first/#respond</comments>
+		<wfw:commentRss>http://savorpodcast.com/do-you-want-the-good-news-first/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Podcast]]></category>
+		<description>OK…Danielle is having a baby girl!! The BIG news…We are saying our final goodbye to Savor Podcast today. All of our episodes will continue to be available to you &amp; your friends … &lt;a class=&quot;readmore&quot; href=&quot;http://savorpodcast.com/do-you-want-the-good-news-first/&quot;&gt;Continue Reading →&lt;/a&gt;</description>
+		<content:encoded><![CDATA[<p>OK&#8230;Danielle is having a baby girl!!</p>
+<p>The BIG news&#8230;We are saying our final goodbye to Savor Podcast today. All of our episodes will continue to be available to you &amp; your friends right where you&#8217;ve always found them. For at least the next year. We will let you know where to find them if we relocate them after that.</p>
+<p>Never fear, if you need us, we are Still Here! For your questions, your comments or to work together. Find us on our respective websites: <a href="http://drbeck-ellsworth.com/" target="_blank">Danielle</a> &amp; <a href="http://kellyhindsnutrition.com/" target="_blank">Kelly</a></p>
+<p>We would like to think we are trendsetters because when we birthed Savor, podcasts about intuitive eating, eating disorders, body image &amp; health at every size were nowhere to be found. But if podcasts are your jam &amp; you poke around today, you are going to find them! A couple you might like:</p>
+<p><a href="http://www.juliedillonrd.com/lovefoodpodcast/" target="_blank">Love, Food Podcast</a> by dietitian, Julie Dillon</p>
+<p><a href="http://www.bvmrd.com/podcast" target="_blank">Dietitians Unplugged Podcast</a> by dietitian, Aaron Flores</p>
+<p>We cannot say enough THANK YOUs for the support you have shown Savor podcast the past three seasons. We are so lucky to have been a part of your lives.</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+		<enclosure url="https://storage.googleapis.com/savor-podcast/podcast-45.mp3" length="12524064" type="audio/mpeg" />
+		<itunes:subtitle>OK…Danielle is having a baby girl!! The BIG news…We are saying our final goodbye to Savor Podcast today. All of our episodes will continue to be available to you &amp; your friends … Continue Reading →</itunes:subtitle>
+		<itunes:summary><![CDATA[OK&#8230;Danielle is having a baby girl!!<br />
+The BIG news&#8230;We are saying our final goodbye to Savor Podcast today. All of our episodes will continue to be available to you &amp; your friends right where you&#8217;ve always found them. For at least the next year. We will let you know where to find them if we relocate them after that.<br />
+Never fear, if you need us, we are Still Here! For your questions, your comments or to work together. Find us on our respective websites: <a href="http://drbeck-ellsworth.com/" target="_blank">Danielle</a> &amp; <a href="http://kellyhindsnutrition.com/" target="_blank">Kelly</a><br />
+We would like to think we are trendsetters because when we birthed Savor, podcasts about intuitive eating, eating disorders, body image &amp; health at every size were nowhere to be found. But if podcasts are your jam &amp; you poke around today, you are going to find them! A couple you might like:<br />
+<a href="http://www.juliedillonrd.com/lovefoodpodcast/" target="_blank">Love, Food Podcast</a> by dietitian, Julie Dillon<br />
+<a href="http://www.bvmrd.com/podcast" target="_blank">Dietitians Unplugged Podcast</a> by dietitian, Aaron Flores<br />
+We cannot say enough THANK YOUs for the support you have shown Savor podcast the past three seasons. We are so lucky to have been a part of your lives.<br />
+&nbsp;<br />]]></itunes:summary>
+		<itunes:author>Danielle Beck-Ellsworth PsyD MFT CEDS &amp; Kelly Hinds RD LD; a combined 26 years of eating disorder expertise</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>8:42</itunes:duration>
+		</item>
+	<item>
+		<title>Sayonara Season 3</title>
+		<link>http://savorpodcast.com/sayonara-season-3/</link>
+		<pubDate>Sat, 25 Jun 2016 21:52:24 +0000</pubDate>
+		<guid isPermaLink="false">http://savorpodcast.com/?p=743</guid>
+		<comments>http://savorpodcast.com/sayonara-season-3/#respond</comments>
+		<wfw:commentRss>http://savorpodcast.com/sayonara-season-3/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[12 steps]]></category>
+		<category><![CDATA[Eating Disorder Podcast]]></category>
+		<category><![CDATA[Health at Every Size]]></category>
+		<category><![CDATA[recovery podcast]]></category>
+		<description>It’s a wrap! We want to THANK YOU for allowing us into your ears for another season of Savor. As always, we welcome your feedback &amp; look forward to being … &lt;a class=&quot;readmore&quot; href=&quot;http://savorpodcast.com/sayonara-season-3/&quot;&gt;Continue Reading →&lt;/a&gt;</description>
+		<content:encoded><![CDATA[<p>It&#8217;s a wrap! We want to THANK YOU for allowing us into your ears for another season of Savor. As always, we welcome your feedback &amp; look forward to being with you again in the fall.</p>
+<p>If you would like to support us with your donations, click <a href="https://www.paypal.me/kellyhinds" target="_blank">this link</a> to share an amount you are comfortable with.</p>
+<p>Visit iTunes to <a href="https://itunes.apple.com/us/podcast/savor-podcast/id755509884" target="_blank">subscribe</a>.</p>
+]]></content:encoded>
+		<enclosure url="https://storage.googleapis.com/savor-podcast/podcast-44.mp3" length="13308991" type="audio/mpeg" />
+		<itunes:subtitle>It’s a wrap! We want to THANK YOU for allowing us into your ears for another season of Savor. As always, we welcome your feedback &amp; look forward to being … Continue Reading →</itunes:subtitle>
+		<itunes:summary><![CDATA[It&#8217;s a wrap! We want to THANK YOU for allowing us into your ears for another season of Savor. As always, we welcome your feedback &amp; look forward to being with you again in the fall.<br />
+If you would like to support us with your donations, click <a href="https://www.paypal.me/kellyhinds" target="_blank">this link</a> to share an amount you are comfortable with.<br />
+Visit iTunes to <a href="https://itunes.apple.com/us/podcast/savor-podcast/id755509884" target="_blank">subscribe</a>.<br />]]></itunes:summary>
+		<itunes:author>Danielle Beck-Ellsworth PsyD MFT CEDS &amp; Kelly Hinds RD LD; a combined 26 years of eating disorder expertise</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>9:14</itunes:duration>
+		</item>
+	<item>
+		<title>Stress &#8211; If It Doesn&#8217;t Kill You&#8230;</title>
+		<link>http://savorpodcast.com/stress-is-it-killing-you/</link>
+		<pubDate>Thu, 09 Jun 2016 11:01:58 +0000</pubDate>
+		<guid isPermaLink="false">http://savorpodcast.com/?p=728</guid>
+		<comments>http://savorpodcast.com/stress-is-it-killing-you/#respond</comments>
+		<wfw:commentRss>http://savorpodcast.com/stress-is-it-killing-you/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[Eating Disorder Podcast]]></category>
+		<category><![CDATA[emotional eating]]></category>
+		<category><![CDATA[Health at Every Size]]></category>
+		<category><![CDATA[Intuitive Eating]]></category>
+		<category><![CDATA[stress]]></category>
+		<description>STRESS – can it make you stronger? It depends… Danielle &amp; Kelly share their experiences with stress and Danielle teaches you how to better cope with it. Quiz Alert! There’s another good … &lt;a class=&quot;readmore&quot; href=&quot;http://savorpodcast.com/stress-is-it-killing-you/&quot;&gt;Continue Reading →&lt;/a&gt;</description>
+		<content:encoded><![CDATA[<p>STRESS &#8211; can it make you stronger? It depends&#8230;</p>
+<p>Danielle &amp; Kelly share their experiences with stress and Danielle teaches you how to better cope with it.</p>
+<p>Quiz Alert! There&#8217;s another good one for you today!</p>
+<p>For more information on this topic, check out the <a href="https://www.ted.com/talks/kelly_mcgonigal_how_to_make_stress_your_friend" target="_blank">TED talk</a> mentioned in the episode.</p>
+<p>If you would like to support us with your donations, click <a href="https://www.paypal.me/kellyhinds" target="_blank">this link</a> to share an amount you are comfortable with.</p>
+<p>Visit iTunes to <a href="https://itunes.apple.com/us/podcast/savor-podcast/id755509884" target="_blank">subscribe</a>.</p>
+]]></content:encoded>
+		<enclosure url="https://storage.googleapis.com/savor-podcast/podcast-43.mp3" length="84497890" type="audio/mpeg" />
+		<itunes:subtitle>STRESS – can it make you stronger? It depends… Danielle &amp; Kelly share their experiences with stress and Danielle teaches you how to better cope with it. Quiz Alert! There’s another good … Continue Reading →</itunes:subtitle>
+		<itunes:summary><![CDATA[STRESS &#8211; can it make you stronger? It depends&#8230;<br />
+Danielle &amp; Kelly share their experiences with stress and Danielle teaches you how to better cope with it.<br />
+Quiz Alert! There&#8217;s another good one for you today!<br />
+For more information on this topic, check out the <a href="https://www.ted.com/talks/kelly_mcgonigal_how_to_make_stress_your_friend" target="_blank">TED talk</a> mentioned in the episode.<br />
+If you would like to support us with your donations, click <a href="https://www.paypal.me/kellyhinds" target="_blank">this link</a> to share an amount you are comfortable with.<br />
+Visit iTunes to <a href="https://itunes.apple.com/us/podcast/savor-podcast/id755509884" target="_blank">subscribe</a>.<br />]]></itunes:summary>
+		<itunes:author>Danielle Beck-Ellsworth PsyD MFT CEDS &amp; Kelly Hinds RD LD; a combined 26 years of eating disorder expertise</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>58:41</itunes:duration>
+		</item>
+	<item>
+		<title>Thick Dumpling Skin</title>
+		<link>http://savorpodcast.com/thick-dumpling-skin/</link>
+		<pubDate>Thu, 19 May 2016 01:00:47 +0000</pubDate>
+		<guid isPermaLink="false">http://savorpodcast.com/?p=726</guid>
+		<comments>http://savorpodcast.com/thick-dumpling-skin/#respond</comments>
+		<wfw:commentRss>http://savorpodcast.com/thick-dumpling-skin/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[Body Image]]></category>
+		<category><![CDATA[Eating Disorder Podcast]]></category>
+		<category><![CDATA[HAES]]></category>
+		<category><![CDATA[Health at Every Size]]></category>
+		<description>Lynn Chen, actor &amp; National Eating Disorders Association Spokesperson, introduces us to her website, Thick Dumpling Skin, dedicated to the Asian-American woman’s quest for the perfect body. Lynn highlights the struggles people have … &lt;a class=&quot;readmore&quot; href=&quot;http://savorpodcast.com/thick-dumpling-skin/&quot;&gt;Continue Reading →&lt;/a&gt;</description>
+		<content:encoded><![CDATA[<p><a href="http://lynnchen.com/" target="_blank">Lynn Chen</a>, actor &amp; National Eating Disorders Association Spokesperson, introduces us to her website, <a href="http://www.thickdumplingskin.com/" target="_blank">Thick Dumpling Skin,</a> dedicated to the Asian-American woman&#8217;s quest for the perfect body. Lynn highlights the struggles people have finding treatment when they don&#8217;t fit the &#8220;rich, white girl&#8221; stereotype of a patient with an eating disorder. She also shares how her <a href="http://theactorsdiet.com/" target="_blank">online food blog</a> guided her recovery. Lynn is happy to answer questions or be of support to you and can be contacted through <a href="http://lynnchen.com/" target="_blank">her website</a>.</p>
+<p>Some resources Lynn thought you might find helpful:</p>
+<p><a href="http://www.apiopa.org/" target="_blank">APIOPA</a></p>
+<p><a href="http://womenagainstnegativetalk.com/" target="_blank">Women Against Negative Talk</a></p>
+<p>A special thanks to <a href="http://defratesnutrition.com/" target="_blank">Amrie DeFrates</a> for introducing us to Lynn in her Body Image Series!</p>
+<p>If you would like to support us with your donations, click <a href="https://www.paypal.me/kellyhinds" target="_blank">this link</a> to share an amount you are comfortable with.</p>
+<p>Visit iTunes to <a href="https://itunes.apple.com/us/podcast/savor-podcast/id755509884" target="_blank">subscribe</a>.</p>
+]]></content:encoded>
+		<enclosure url="https://storage.googleapis.com/savor-podcast/podcast-42.mp3" length="61956933" type="audio/mpeg" />
+		<itunes:subtitle>Lynn Chen, actor &amp; National Eating Disorders Association Spokesperson, introduces us to her website, Thick Dumpling Skin, dedicated to the Asian-American woman’s quest for the perfect body. Lynn highlights the struggles people have … Continue Reading →</itunes:subtitle>
+		<itunes:summary><![CDATA[<a href="http://lynnchen.com/" target="_blank">Lynn Chen</a>, actor &amp; National Eating Disorders Association Spokesperson, introduces us to her website, <a href="http://www.thickdumplingskin.com/" target="_blank">Thick Dumpling Skin,</a> dedicated to the Asian-American woman&#8217;s quest for the perfect body. Lynn highlights the struggles people have finding treatment when they don&#8217;t fit the &#8220;rich, white girl&#8221; stereotype of a patient with an eating disorder. She also shares how her <a href="http://theactorsdiet.com/" target="_blank">online food blog</a> guided her recovery. Lynn is happy to answer questions or be of support to you and can be contacted through <a href="http://lynnchen.com/" target="_blank">her website</a>.<br />
+Some resources Lynn thought you might find helpful:<br />
+<a href="http://www.apiopa.org/" target="_blank">APIOPA</a><br />
+<a href="http://womenagainstnegativetalk.com/" target="_blank">Women Against Negative Talk</a><br />
+A special thanks to <a href="http://defratesnutrition.com/" target="_blank">Amrie DeFrates</a> for introducing us to Lynn in her Body Image Series!<br />
+If you would like to support us with your donations, click <a href="https://www.paypal.me/kellyhinds" target="_blank">this link</a> to share an amount you are comfortable with.<br />
+Visit iTunes to <a href="https://itunes.apple.com/us/podcast/savor-podcast/id755509884" target="_blank">subscribe</a>.<br />]]></itunes:summary>
+		<itunes:author>Danielle Beck-Ellsworth PsyD MFT CEDS &amp; Kelly Hinds RD LD; a combined 26 years of eating disorder expertise</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>43:01</itunes:duration>
+		</item>
+	<item>
+		<title>The Invisible Women</title>
+		<link>http://savorpodcast.com/the-invisible-women/</link>
+		<pubDate>Thu, 28 Apr 2016 03:20:06 +0000</pubDate>
+		<guid isPermaLink="false">http://savorpodcast.com/?p=718</guid>
+		<comments>http://savorpodcast.com/the-invisible-women/#respond</comments>
+		<wfw:commentRss>http://savorpodcast.com/the-invisible-women/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[Eating Disorder Podcast]]></category>
+		<category><![CDATA[Health at Every Size]]></category>
+		<category><![CDATA[Margo Maine]]></category>
+		<description>When Dr. Margo Maine speaks, we all listen. We can’t even begin to express the gratitude we have for Dr. Maine sharing her time &amp; expertise with us. One of our … &lt;a class=&quot;readmore&quot; href=&quot;http://savorpodcast.com/the-invisible-women/&quot;&gt;Continue Reading →&lt;/a&gt;</description>
+		<content:encoded><![CDATA[<p>When <a href="http://www.mwsg.org/" target="_blank">Dr. Margo Maine</a> speaks, we all listen. We can&#8217;t even begin to express the gratitude we have for Dr. Maine sharing her time &amp; expertise with us. One of our listeners reached out about her struggle with finding the right fit for treatment as a woman in her 40s. Dr. Maine&#8217;s new book, Pursuing Perfection, speaks directly to this problem. For instance, did you know that 13% of adult women over the age of 50 display eating disorder symptoms? In comparison, only 12.4% have breast cancer. You won&#8217;t want to miss this episode &amp; definitely want to purchase the book, published by Routledge, when it hits the shelves in June.</p>
+<p>If you would like to support us with your donations, click <a href="https://www.paypal.me/kellyhinds" target="_blank">this link</a> to share an amount you are comfortable with.</p>
+<p>Visit iTunes to <a href="https://itunes.apple.com/us/podcast/savor-podcast/id755509884" target="_blank">subscribe</a>.</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+		<enclosure url="https://storage.googleapis.com/savor-podcast/podcast-41.mp3" length="68376786" type="audio/mpeg" />
+		<itunes:subtitle>When Dr. Margo Maine speaks, we all listen. We can’t even begin to express the gratitude we have for Dr. Maine sharing her time &amp; expertise with us. One of our … Continue Reading →</itunes:subtitle>
+		<itunes:summary><![CDATA[When <a href="http://www.mwsg.org/" target="_blank">Dr. Margo Maine</a> speaks, we all listen. We can&#8217;t even begin to express the gratitude we have for Dr. Maine sharing her time &amp; expertise with us. One of our listeners reached out about her struggle with finding the right fit for treatment as a woman in her 40s. Dr. Maine&#8217;s new book, Pursuing Perfection, speaks directly to this problem. For instance, did you know that 13% of adult women over the age of 50 display eating disorder symptoms? In comparison, only 12.4% have breast cancer. You won&#8217;t want to miss this episode &amp; definitely want to purchase the book, published by Routledge, when it hits the shelves in June.<br />
+If you would like to support us with your donations, click <a href="https://www.paypal.me/kellyhinds" target="_blank">this link</a> to share an amount you are comfortable with.<br />
+Visit iTunes to <a href="https://itunes.apple.com/us/podcast/savor-podcast/id755509884" target="_blank">subscribe</a>.<br />
+&nbsp;<br />]]></itunes:summary>
+		<itunes:author>Danielle Beck-Ellsworth PsyD MFT CEDS &amp; Kelly Hinds RD LD; a combined 26 years of eating disorder expertise</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>47:29</itunes:duration>
+		</item>
+	<item>
+		<title>Your Only Job Is To Relax</title>
+		<link>http://savorpodcast.com/are-you-ready-to-be-poked/</link>
+		<pubDate>Fri, 01 Apr 2016 14:00:03 +0000</pubDate>
+		<guid isPermaLink="false">http://savorpodcast.com/?p=676</guid>
+		<comments>http://savorpodcast.com/are-you-ready-to-be-poked/#respond</comments>
+		<wfw:commentRss>http://savorpodcast.com/are-you-ready-to-be-poked/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[acupuncture]]></category>
+		<category><![CDATA[Eating Disorder Podcast]]></category>
+		<category><![CDATA[Health at Every Size]]></category>
+		<category><![CDATA[Intuitive Eating]]></category>
+		<category><![CDATA[meditation]]></category>
+		<description>Norah McIntire, L.Ac. graciously shared her time &amp; expertise to explore the world of Chinese Medicine &amp; Acupuncture. Norah practices in Los Angeles, California and you can find more information … &lt;a class=&quot;readmore&quot; href=&quot;http://savorpodcast.com/are-you-ready-to-be-poked/&quot;&gt;Continue Reading →&lt;/a&gt;</description>
+		<content:encoded><![CDATA[<p><a href="http://acuadvantage.com/" target="_blank">Norah McIntire, L.Ac.</a> graciously shared her time &amp; expertise to explore the world of Chinese Medicine &amp; Acupuncture. Norah practices in Los Angeles, California and you can find more information about her practice &amp; this topic on <a href="http://acuadvantage.com/" target="_blank">her website</a>.</p>
+<p>If you would like to read more, Norah suggested these sites:</p>
+<p><a href="https://www.acufinder.com/" target="_blank">www.acufinder.com</a></p>
+<p><a href="http://acupuncture.com/" target="_blank">www.acupuncture.com</a></p>
+<p><a href="http://www.acupuncturetoday.com/mpacms/at/home.php" target="_blank">www.acupuncturetoday.com</a></p>
+<p>If you have more questions, you can contact Norah at <a href="mailto:nmcintirelac@yahoo.com" target="_blank">nmcintirelac@yahoo.com</a>.</p>
+<p>To receive CEU credit for this episode, submit payment by <a href="https://www.paypal.me/kellyhinds/10" target="_blank">clicking here</a>, complete <a href="http://savorpodcast.com/wp-content/uploads/2016/02/Acupuncture-Quiz.pdf" target="_blank">this quiz</a> &amp; return to info@savorpodcast.com</p>
+<p>If you would like to support us with your donations, click <a href="https://www.paypal.me/kellyhinds" target="_blank">this link</a> to share an amount you are comfortable with.</p>
+<p>Visit iTunes to <a href="https://itunes.apple.com/us/podcast/savor-podcast/id755509884" target="_blank">subscribe</a>.</p>
+]]></content:encoded>
+		<enclosure url="https://storage.googleapis.com/savor-podcast/podcast-39.mp3" length="58426014" type="audio/mpeg" />
+		<itunes:subtitle>Norah McIntire, L.Ac. graciously shared her time &amp; expertise to explore the world of Chinese Medicine &amp; Acupuncture. Norah practices in Los Angeles, California and you can find more information … Continue Reading →</itunes:subtitle>
+		<itunes:summary><![CDATA[<a href="http://acuadvantage.com/" target="_blank">Norah McIntire, L.Ac.</a> graciously shared her time &amp; expertise to explore the world of Chinese Medicine &amp; Acupuncture. Norah practices in Los Angeles, California and you can find more information about her practice &amp; this topic on <a href="http://acuadvantage.com/" target="_blank">her website</a>.<br />
+If you would like to read more, Norah suggested these sites:<br />
+<a href="https://www.acufinder.com/" target="_blank">www.acufinder.com</a><br />
+<a href="http://acupuncture.com/" target="_blank">www.acupuncture.com</a><br />
+<a href="http://www.acupuncturetoday.com/mpacms/at/home.php" target="_blank">www.acupuncturetoday.com</a><br />
+If you have more questions, you can contact Norah at <a href="mailto:nmcintirelac@yahoo.com" target="_blank">nmcintirelac@yahoo.com</a>.<br />
+To receive CEU credit for this episode, submit payment by <a href="https://www.paypal.me/kellyhinds/10" target="_blank">clicking here</a>, complete <a href="http://savorpodcast.com/wp-content/uploads/2016/02/Acupuncture-Quiz.pdf" target="_blank">this quiz</a> &amp; return to info@savorpodcast.com<br />
+If you would like to support us with your donations, click <a href="https://www.paypal.me/kellyhinds" target="_blank">this link</a> to share an amount you are comfortable with.<br />
+Visit iTunes to <a href="https://itunes.apple.com/us/podcast/savor-podcast/id755509884" target="_blank">subscribe</a>.<br />]]></itunes:summary>
+		<itunes:author>Danielle Beck-Ellsworth PsyD MFT CEDS &amp; Kelly Hinds RD LD; a combined 26 years of eating disorder expertise</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>40:34</itunes:duration>
+		</item>
+	<item>
+		<title>Savor Serves Up Home Cooking</title>
+		<link>http://savorpodcast.com/budget-cooking-in-national-nutrition-month/</link>
+		<pubDate>Thu, 10 Mar 2016 14:20:20 +0000</pubDate>
+		<guid isPermaLink="false">http://savorpodcast.com/?p=674</guid>
+		<comments>http://savorpodcast.com/budget-cooking-in-national-nutrition-month/#respond</comments>
+		<wfw:commentRss>http://savorpodcast.com/budget-cooking-in-national-nutrition-month/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[budget cooking]]></category>
+		<category><![CDATA[Eating Disorder Podcast]]></category>
+		<category><![CDATA[Health at Every Size]]></category>
+		<category><![CDATA[Intuitive Eating]]></category>
+		<category><![CDATA[National Nutrition Month]]></category>
+		<description>To celebrate National Nutrition Month, Danielle &amp; Kelly took a detour from the norm and did a cooking demonstration on air! Danielle was the test chef and Kelly talked about ways to … &lt;a class=&quot;readmore&quot; href=&quot;http://savorpodcast.com/budget-cooking-in-national-nutrition-month/&quot;&gt;Continue Reading →&lt;/a&gt;</description>
+		<content:encoded><![CDATA[<p>To celebrate <a href="http://www.nationalnutritionmonth.org/nnm/" target="_blank">National Nutrition Month</a>, Danielle &amp; Kelly took a detour from the norm and did a cooking demonstration on air!</p>
+<p>Danielle was the test chef and Kelly talked about ways to save money on your grocery bill <em>and</em> eat well.</p>
+<p>The Savor Shoutout for our recipes goes to<a href="http://www.leannebrown.com/" target="_blank"> Leanne Brown</a> the author of Good &amp; Cheap cookbook, available for FREE on her website.</p>
+<p>For your mouth-watering pleasure&#8230;photos of Danielle&#8217;s Tilapia &amp; <del>Cornmeal</del> Bread-Crumb-Crusted Vegetables.<a href="http://savorpodcast.com/wp-content/uploads/2016/02/tilapia.jpg" rel="attachment wp-att-704"><img class="size-medium wp-image-704 aligncenter" src="http://savorpodcast.com/wp-content/uploads/2016/02/tilapia-300x200.jpg" alt="tilapia" width="300" height="200" srcset="http://savorpodcast.com/wp-content/uploads/2016/02/tilapia-300x200.jpg 300w, http://savorpodcast.com/wp-content/uploads/2016/02/tilapia-768x512.jpg 768w, http://savorpodcast.com/wp-content/uploads/2016/02/tilapia-1024x683.jpg 1024w, http://savorpodcast.com/wp-content/uploads/2016/02/tilapia-210x140.jpg 210w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><a href="http://savorpodcast.com/wp-content/uploads/2016/02/panko-crusted.jpg" rel="attachment wp-att-705"><img class="size-medium wp-image-705 aligncenter" src="http://savorpodcast.com/wp-content/uploads/2016/02/panko-crusted-300x200.jpg" alt="panko crusted" width="300" height="200" srcset="http://savorpodcast.com/wp-content/uploads/2016/02/panko-crusted-300x200.jpg 300w, http://savorpodcast.com/wp-content/uploads/2016/02/panko-crusted-768x512.jpg 768w, http://savorpodcast.com/wp-content/uploads/2016/02/panko-crusted-1024x683.jpg 1024w, http://savorpodcast.com/wp-content/uploads/2016/02/panko-crusted-210x140.jpg 210w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p>If you would like to support us with your donations, click <a href="https://www.paypal.me/kellyhinds" target="_blank">this link</a> to share an amount you are comfortable with.</p>
+<p>Visit iTunes to <a href="https://itunes.apple.com/us/podcast/savor-podcast/id755509884" target="_blank">subscribe</a>.</p>
+]]></content:encoded>
+		<enclosure url="https://storage.googleapis.com/savor-podcast/podcast-40.mp3" length="78256714" type="audio/mpeg" />
+		<itunes:subtitle>To celebrate National Nutrition Month, Danielle &amp; Kelly took a detour from the norm and did a cooking demonstration on air! Danielle was the test chef and Kelly talked about ways to … Continue Reading →</itunes:subtitle>
+		<itunes:summary><![CDATA[To celebrate <a href="http://www.nationalnutritionmonth.org/nnm/" target="_blank">National Nutrition Month</a>, Danielle &amp; Kelly took a detour from the norm and did a cooking demonstration on air!<br />
+Danielle was the test chef and Kelly talked about ways to save money on your grocery bill and eat well.<br />
+The Savor Shoutout for our recipes goes to<a href="http://www.leannebrown.com/" target="_blank"> Leanne Brown</a> the author of Good &amp; Cheap cookbook, available for FREE on her website.<br />
+For your mouth-watering pleasure&#8230;photos of Danielle&#8217;s Tilapia &amp; Cornmeal Bread-Crumb-Crusted Vegetables.<a href="http://savorpodcast.com/wp-content/uploads/2016/02/tilapia.jpg" rel="attachment wp-att-704"></a><br />
+&nbsp;<br />
+&nbsp;<br />
+<a href="http://savorpodcast.com/wp-content/uploads/2016/02/panko-crusted.jpg" rel="attachment wp-att-705"></a><br />
+If you would like to support us with your donations, click <a href="https://www.paypal.me/kellyhinds" target="_blank">this link</a> to share an amount you are comfortable with.<br />
+Visit iTunes to <a href="https://itunes.apple.com/us/podcast/savor-podcast/id755509884" target="_blank">subscribe</a>.<br />]]></itunes:summary>
+		<itunes:author>Danielle Beck-Ellsworth PsyD MFT CEDS &amp; Kelly Hinds RD LD; a combined 26 years of eating disorder expertise</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>54:21</itunes:duration>
+		</item>
+	<item>
+		<title>It&#8217;s Not Your Body, It&#8217;s Your Mind!</title>
+		<link>http://savorpodcast.com/its-not-your-body-its-your-mind/</link>
+		<pubDate>Fri, 19 Feb 2016 17:19:26 +0000</pubDate>
+		<guid isPermaLink="false">http://savorpodcast.com/?p=672</guid>
+		<comments>http://savorpodcast.com/its-not-your-body-its-your-mind/#respond</comments>
+		<wfw:commentRss>http://savorpodcast.com/its-not-your-body-its-your-mind/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[Eating Disorder Podcast]]></category>
+		<category><![CDATA[Intuitive Eating]]></category>
+		<category><![CDATA[National Eating Disorders Awareness Week]]></category>
+		<category><![CDATA[Yoga Eating Disorders]]></category>
+		<description>To kick off National Eating Disorders Awareness Week, one of our listeners wanted YOU to hear about her journey into RECOVERY. We encourage you to get involved in your community this … &lt;a class=&quot;readmore&quot; href=&quot;http://savorpodcast.com/its-not-your-body-its-your-mind/&quot;&gt;Continue Reading →&lt;/a&gt;</description>
+		<content:encoded><![CDATA[<p>To kick off <a href="http://nedawareness.org/" target="_blank">National Eating Disorders Awareness Week</a>, one of our listeners wanted YOU to hear about her journey into RECOVERY. We encourage you to get involved in your community this week too. You can find more information about events/activities by visiting the <a href="http://nedawareness.org/" target="_blank">NEDA website</a>.</p>
+<p>I have to say that every minute of this interview with <a href="http://www.jenpicicci.com/food-body-image/" target="_blank">Jen Picicci</a> was fun for me, you&#8217;re going to love her! Such a Dynamic woman! Thanks Jen!</p>
+<p>Jen&#8217;s Savor Shoutout goes to the straight-talking <a href="http://isabelfoxenduke.com/" target="_blank">Isabel Foxen Duke</a>.</p>
+<p>Jen also recommended the book <a href="http://www.cynthiabulik.com/books/runaway-eating/" target="_blank">Runaway Eating</a> by Cynthia Bulik, PhD.</p>
+<p>If you would like to support us with your donations, click <a href="https://www.paypal.me/kellyhinds" target="_blank">this link</a> to share an amount you are comfortable with.</p>
+<p>Visit iTunes to <a href="https://itunes.apple.com/us/podcast/savor-podcast/id755509884" target="_blank">subscribe</a>.</p>
+]]></content:encoded>
+		<enclosure url="https://storage.googleapis.com/savor-podcast/podcast-38.mp3" length="65060280" type="audio/mpeg" />
+		<itunes:subtitle>To kick off National Eating Disorders Awareness Week, one of our listeners wanted YOU to hear about her journey into RECOVERY. We encourage you to get involved in your community this … Continue Reading →</itunes:subtitle>
+		<itunes:summary><![CDATA[To kick off <a href="http://nedawareness.org/" target="_blank">National Eating Disorders Awareness Week</a>, one of our listeners wanted YOU to hear about her journey into RECOVERY. We encourage you to get involved in your community this week too. You can find more information about events/activities by visiting the <a href="http://nedawareness.org/" target="_blank">NEDA website</a>.<br />
+I have to say that every minute of this interview with <a href="http://www.jenpicicci.com/food-body-image/" target="_blank">Jen Picicci</a> was fun for me, you&#8217;re going to love her! Such a Dynamic woman! Thanks Jen!<br />
+Jen&#8217;s Savor Shoutout goes to the straight-talking <a href="http://isabelfoxenduke.com/" target="_blank">Isabel Foxen Duke</a>.<br />
+Jen also recommended the book <a href="http://www.cynthiabulik.com/books/runaway-eating/" target="_blank">Runaway Eating</a> by Cynthia Bulik, PhD.<br />
+If you would like to support us with your donations, click <a href="https://www.paypal.me/kellyhinds" target="_blank">this link</a> to share an amount you are comfortable with.<br />
+Visit iTunes to <a href="https://itunes.apple.com/us/podcast/savor-podcast/id755509884" target="_blank">subscribe</a>.<br />]]></itunes:summary>
+		<itunes:author>Danielle Beck-Ellsworth PsyD MFT CEDS &amp; Kelly Hinds RD LD; a combined 26 years of eating disorder expertise</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>45:11</itunes:duration>
+		</item>
+	<item>
+		<title>The Competitive Athlete</title>
+		<link>http://savorpodcast.com/exercise/</link>
+		<pubDate>Fri, 29 Jan 2016 18:02:37 +0000</pubDate>
+		<guid isPermaLink="false">http://savorpodcast.com/?p=635</guid>
+		<comments>http://savorpodcast.com/exercise/#respond</comments>
+		<wfw:commentRss>http://savorpodcast.com/exercise/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[Body Image]]></category>
+		<category><![CDATA[Eating Disorder Podcast]]></category>
+		<category><![CDATA[Exercise Bulimia]]></category>
+		<category><![CDATA[HAES]]></category>
+		<category><![CDATA[Health at Every Size]]></category>
+		<category><![CDATA[Intuitive Eating]]></category>
+		<category><![CDATA[National Eating Disorders Awareness Week]]></category>
+		<description>Thank You Melissa Streno, PsyD CC-ASP, for answering our questions on the topic of competitive athletes and eating disorders. Dr. Streno practices at the Eating Disorder Center of Denver. She covers topics such … &lt;a class=&quot;readmore&quot; href=&quot;http://savorpodcast.com/exercise/&quot;&gt;Continue Reading →&lt;/a&gt;</description>
+		<content:encoded><![CDATA[<p>Thank You <a href="http://www.edcdenver.com/denver-team/2016/1/19/melissa-streno-psyd-cc-aasp" target="_blank">Melissa Streno, PsyD CC-ASP</a>, for answering our questions on the topic of competitive athletes and eating disorders. Dr. Streno practices at the <a href="http://www.edcdenver.com/" target="_blank">Eating Disorder Center of Denver</a>.</p>
+<p>She covers topics such as:</p>
+<p>How much is too much exercise?</p>
+<p>What are the warning signs of an athlete struggling with an eating disorder?</p>
+<p>Where should athletes turn to seek help?</p>
+<p>If you would like to support us with your donations, click <a href="https://www.paypal.me/kellyhinds" target="_blank">this link</a> to share an amount you are comfortable with.</p>
+<p>Visit iTunes to <a href="https://itunes.apple.com/us/podcast/savor-podcast/id755509884" target="_blank">subscribe</a>.</p>
+]]></content:encoded>
+		<enclosure url="https://storage.googleapis.com/savor-podcast/podcast-37.mp3" length="46727963" type="audio/mpeg" />
+		<itunes:subtitle>Thank You Melissa Streno, PsyD CC-ASP, for answering our questions on the topic of competitive athletes and eating disorders. Dr. Streno practices at the Eating Disorder Center of Denver. She covers topics such … Continue Reading →</itunes:subtitle>
+		<itunes:summary><![CDATA[Thank You <a href="http://www.edcdenver.com/denver-team/2016/1/19/melissa-streno-psyd-cc-aasp" target="_blank">Melissa Streno, PsyD CC-ASP</a>, for answering our questions on the topic of competitive athletes and eating disorders. Dr. Streno practices at the <a href="http://www.edcdenver.com/" target="_blank">Eating Disorder Center of Denver</a>.<br />
+She covers topics such as:<br />
+How much is too much exercise?<br />
+What are the warning signs of an athlete struggling with an eating disorder?<br />
+Where should athletes turn to seek help?<br />
+If you would like to support us with your donations, click <a href="https://www.paypal.me/kellyhinds" target="_blank">this link</a> to share an amount you are comfortable with.<br />
+Visit iTunes to <a href="https://itunes.apple.com/us/podcast/savor-podcast/id755509884" target="_blank">subscribe</a>.<br />]]></itunes:summary>
+		<itunes:author>Danielle Beck-Ellsworth PsyD MFT CEDS &amp; Kelly Hinds RD LD; a combined 26 years of eating disorder expertise</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>32:27</itunes:duration>
+		</item>
+	<item>
+		<title>Continuing Your Education</title>
+		<link>http://savorpodcast.com/continuing-your-education/</link>
+		<pubDate>Mon, 25 Jan 2016 17:59:35 +0000</pubDate>
+		<guid isPermaLink="false">http://savorpodcast.com/?p=633</guid>
+		<comments>http://savorpodcast.com/continuing-your-education/#respond</comments>
+		<wfw:commentRss>http://savorpodcast.com/continuing-your-education/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[BEDA]]></category>
+		<category><![CDATA[Eating Disorder Podcast]]></category>
+		<category><![CDATA[HAES]]></category>
+		<category><![CDATA[Health at Every Size]]></category>
+		<category><![CDATA[National Eating Disorders Awareness Week]]></category>
+		<description>We are now offering Continuing Education Units for professionals who need them. Dr. Beck-Ellsworth is a certified provider with the California Board of Behavioral Sciences. In order to receive credits, … &lt;a class=&quot;readmore&quot; href=&quot;http://savorpodcast.com/continuing-your-education/&quot;&gt;Continue Reading →&lt;/a&gt;</description>
+		<content:encoded><![CDATA[<p>We are now offering Continuing Education Units for professionals who need them. Dr. Beck-Ellsworth is a certified provider with the California Board of Behavioral Sciences. In order to receive credits, go to the <a href="http://savorpodcast.com/ceu/" target="_blank">CEU section</a> of our website, choose a lesson, submit payment &amp; your completed quiz. When we have received all of your information, you will receive a Certificate for 1 credit hour.</p>
+<p>Check back frequently as more episodes will be made available for credits.</p>
+<p>Please contact us if you have questions.</p>
+]]></content:encoded>
+		<enclosure url="https://storage.googleapis.com/savor-podcast/podcast-36.mp3" length="7602594" type="audio/mpeg" />
+		<itunes:subtitle>We are now offering Continuing Education Units for professionals who need them. Dr. Beck-Ellsworth is a certified provider with the California Board of Behavioral Sciences. In order to receive credits, … Continue Reading →</itunes:subtitle>
+		<itunes:summary><![CDATA[We are now offering Continuing Education Units for professionals who need them. Dr. Beck-Ellsworth is a certified provider with the California Board of Behavioral Sciences. In order to receive credits, go to the <a href="http://savorpodcast.com/ceu/" target="_blank">CEU section</a> of our website, choose a lesson, submit payment &amp; your completed quiz. When we have received all of your information, you will receive a Certificate for 1 credit hour.<br />
+Check back frequently as more episodes will be made available for credits.<br />
+Please contact us if you have questions.<br />]]></itunes:summary>
+		<itunes:author>Danielle Beck-Ellsworth PsyD MFT CEDS &amp; Kelly Hinds RD LD; a combined 26 years of eating disorder expertise</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>5:17</itunes:duration>
+		</item>
+	<item>
+		<title>Trans-itioning</title>
+		<link>http://savorpodcast.com/trans-itioning/</link>
+		<pubDate>Thu, 07 Jan 2016 03:35:45 +0000</pubDate>
+		<guid isPermaLink="false">http://savorpodcast.com/?p=529</guid>
+		<description>Thank You Miranda May, Master of Counseling &amp; Psychology, for enlightening us on the transgender subject! Miranda specializes in gender identity and eating disorders, currently practicing at the Providence Adult Eating Disorder Treatment … &lt;a class=&quot;readmore&quot; href=&quot;http://savorpodcast.com/trans-itioning/&quot;&gt;Continue Reading →&lt;/a&gt;</description>
+		<enclosure url="https://storage.googleapis.com/savor-podcast/podcast-35.mp3" length="74511382" type="audio/mpeg" />
+		<itunes:subtitle>Thank You Miranda May, Master of Counseling &amp; Psychology, for enlightening us on the transgender subject! Miranda specializes in gender identity and eating disorders, currently practicing at the Providence Adult Eating Disorder Treatment … Continue Rea...</itunes:subtitle>
+		<itunes:author>Danielle Beck-Ellsworth PsyD MFT CEDS &amp; Kelly Hinds RD LD; a combined 26 years of eating disorder expertise</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>51:44</itunes:duration>
+		</item>
+	<item>
+		<title>Fat &#038; Babies Are Best Friends! What?!?</title>
+		<link>http://savorpodcast.com/fat-babies-are-best-friends-what/</link>
+		<pubDate>Mon, 30 Nov 2015 04:12:27 +0000</pubDate>
+		<guid isPermaLink="false">http://savorpodcast.com/?p=500</guid>
+		<description>You are going to LOVE this! Pregnancy, lactation &amp; eating disorder expert, Lindsay Stenovec, joins us to answer your questions about cravings, exercise, weight gain &amp; anything else you might … &lt;a class=&quot;readmore&quot; href=&quot;http://savorpodcast.com/fat-babies-are-best-friends-what/&quot;&gt;Continue Reading →&lt;/a&gt;</description>
+		<enclosure url="https://storage.googleapis.com/savor-podcast/podcast-34.mp3" length="76152081" type="audio/mpeg" />
+		<itunes:subtitle>You are going to LOVE this! Pregnancy, lactation &amp; eating disorder expert, Lindsay Stenovec, joins us to answer your questions about cravings, exercise, weight gain &amp; anything else you might … Continue Reading →</itunes:subtitle>
+		<itunes:author>Danielle Beck-Ellsworth PsyD MFT CEDS &amp; Kelly Hinds RD LD; a combined 26 years of eating disorder expertise</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>52:53</itunes:duration>
+		</item>
+	<item>
+		<title>Jails, Institutions or Death&#8230;</title>
+		<link>http://savorpodcast.com/12-steps/</link>
+		<pubDate>Thu, 05 Nov 2015 14:00:28 +0000</pubDate>
+		<guid isPermaLink="false">http://savorpodcast.com/?p=433</guid>
+		<description>the options for an addict if they don’t get sober. Special guest Sharon Zimbler talks about substance abuse disorders and shares some important questions to ask yourself if you think you have … &lt;a class=&quot;readmore&quot; href=&quot;http://savorpodcast.com/12-steps/&quot;&gt;Continue Reading →&lt;/a&gt;</description>
+		<enclosure url="https://storage.googleapis.com/savor-podcast/podcast-33.mp3" length="73441825" type="audio/mpeg" />
+		<itunes:subtitle>the options for an addict if they don’t get sober. Special guest Sharon Zimbler talks about substance abuse disorders and shares some important questions to ask yourself if you think you have … Continue Reading →</itunes:subtitle>
+		<itunes:author>Danielle Beck-Ellsworth PsyD MFT CEDS &amp; Kelly Hinds RD LD; a combined 26 years of eating disorder expertise</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>51:00</itunes:duration>
+		</item>
+	<item>
+		<title>Toughen Up, Cry Baby!</title>
+		<link>http://savorpodcast.com/toughen-up/</link>
+		<pubDate>Wed, 14 Oct 2015 23:35:52 +0000</pubDate>
+		<guid isPermaLink="false">http://savorpodcast.com/?p=426</guid>
+		<description>Has anyone ever said those words to you? Do you ever feel like there is something wrong with you because you are bothered by things others seem to ignore? If … &lt;a class=&quot;readmore&quot; href=&quot;http://savorpodcast.com/toughen-up/&quot;&gt;Continue Reading →&lt;/a&gt;</description>
+		<enclosure url="https://storage.googleapis.com/savor-podcast/podcast-32.mp3" length="66522301" type="audio/mpeg" />
+		<itunes:subtitle>Has anyone ever said those words to you? Do you ever feel like there is something wrong with you because you are bothered by things others seem to ignore? If … Continue Reading →</itunes:subtitle>
+		<itunes:author>Danielle Beck-Ellsworth PsyD MFT CEDS &amp; Kelly Hinds RD LD; a combined 26 years of eating disorder expertise</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>46:12</itunes:duration>
+		</item>
+	<item>
+		<title>Did You Miss Us?</title>
+		<link>http://savorpodcast.com/did-you-miss-us/</link>
+		<pubDate>Thu, 01 Oct 2015 14:32:18 +0000</pubDate>
+		<guid isPermaLink="false">http://savorpodcast.com/?p=424</guid>
+		<description>Then you’ll be so happy to hear that we are back for our 3rd Season! Tune in to find out what’s in store. Some highlights… in addition to iTunes, you … &lt;a class=&quot;readmore&quot; href=&quot;http://savorpodcast.com/did-you-miss-us/&quot;&gt;Continue Reading →&lt;/a&gt;</description>
+		<enclosure url="https://storage.googleapis.com/savor-podcast/podcast-31.mp3" length="17374689" type="audio/mpeg" />
+		<itunes:subtitle>Then you’ll be so happy to hear that we are back for our 3rd Season! Tune in to find out what’s in store. Some highlights… in addition to iTunes, you … Continue Reading →</itunes:subtitle>
+		<itunes:author>Danielle Beck-Ellsworth PsyD MFT CEDS &amp; Kelly Hinds RD LD; a combined 26 years of eating disorder expertise</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>12:04</itunes:duration>
+		</item>
+	<item>
+		<title>Goodbye Season Two, Hello Summer</title>
+		<link>http://savorpodcast.com/goodbye-season-two-hello-summer/</link>
+		<pubDate>Mon, 15 Jun 2015 22:03:46 +0000</pubDate>
+		<guid isPermaLink="false">http://savorpodcast.com/?p=400</guid>
+		<description>We are signing off for the summer and wanted to say a giant THANKS to our listeners. We have appreciated your encouragement and look forward to giving you more of what … &lt;a class=&quot;readmore&quot; href=&quot;http://savorpodcast.com/goodbye-season-two-hello-summer/&quot;&gt;Continue Reading →&lt;/a&gt;</description>
+		<enclosure url="https://storage.googleapis.com/savor-podcast/podcast-30.mp3" length="13487042" type="audio/mpeg" />
+		<itunes:subtitle>We are signing off for the summer and wanted to say a giant THANKS to our listeners. We have appreciated your encouragement and look forward to giving you more of what … Continue Reading →</itunes:subtitle>
+		<itunes:author>Danielle Beck-Ellsworth PsyD MFT CEDS &amp; Kelly Hinds RD LD; a combined 26 years of eating disorder expertise</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>9:22</itunes:duration>
+		</item>
+	<item>
+		<title>Human Beings Never Give Up Anything We Still Need</title>
+		<link>http://savorpodcast.com/human-beings-never-give-up-anything-we-still-need/</link>
+		<pubDate>Thu, 04 Jun 2015 14:57:01 +0000</pubDate>
+		<guid isPermaLink="false">http://savorpodcast.com/?p=392</guid>
+		<description>Tamara Pryor PhD FAED from the Eating Disorder Center of Denver joined us to share her expertise in the area of substance abuse and eating disorders. Dr. Pryor uses her … &lt;a class=&quot;readmore&quot; href=&quot;http://savorpodcast.com/human-beings-never-give-up-anything-we-still-need/&quot;&gt;Continue Reading →&lt;/a&gt;</description>
+		<enclosure url="https://storage.googleapis.com/savor-podcast/podcast-29.mp3" length="68055793" type="audio/mpeg" />
+		<itunes:subtitle>Tamara Pryor PhD FAED from the Eating Disorder Center of Denver joined us to share her expertise in the area of substance abuse and eating disorders. Dr. Pryor uses her … Continue Reading →</itunes:subtitle>
+		<itunes:author>Danielle Beck-Ellsworth PsyD MFT CEDS &amp; Kelly Hinds RD LD; a combined 26 years of eating disorder expertise</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>47:15</itunes:duration>
+		</item>
+	<item>
+		<title>Would You Like To Know WHY Diets Don&#8217;t Work?</title>
+		<link>http://savorpodcast.com/would-you-like-to-know-why-diets-dont-work/</link>
+		<pubDate>Mon, 11 May 2015 23:58:31 +0000</pubDate>
+		<guid isPermaLink="false">http://savorpodcast.com/?p=382</guid>
+		<description>In Part 2 of our Dieting Series, Kelly explains the biology of why diets don’t work. Visit iTunes to subscribe. Check out these resources mentioned in the episode: Poodle Science … &lt;a class=&quot;readmore&quot; href=&quot;http://savorpodcast.com/would-you-like-to-know-why-diets-dont-work/&quot;&gt;Continue Reading →&lt;/a&gt;</description>
+		<enclosure url="https://storage.googleapis.com/savor-podcast/podcast-28.mp3" length="69125978" type="audio/mpeg" />
+		<itunes:subtitle>In Part 2 of our Dieting Series, Kelly explains the biology of why diets don’t work. Visit iTunes to subscribe. Check out these resources mentioned in the episode: Poodle Science … Continue Reading →</itunes:subtitle>
+		<itunes:author>Danielle Beck-Ellsworth PsyD MFT CEDS &amp; Kelly Hinds RD LD; a combined 26 years of eating disorder expertise</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>48:00</itunes:duration>
+		</item>
+	<item>
+		<title>Diets Don&#8217;t Work</title>
+		<link>http://savorpodcast.com/diets-dont-work/</link>
+		<pubDate>Tue, 21 Apr 2015 01:48:21 +0000</pubDate>
+		<guid isPermaLink="false">http://savorpodcast.com/?p=364</guid>
+		<description>This is part 1 in our series about the diet industry. We hope you enjoy and look forward to hearing your feedback. Visit iTunes to subscribe. Check out these resources … &lt;a class=&quot;readmore&quot; href=&quot;http://savorpodcast.com/diets-dont-work/&quot;&gt;Continue Reading →&lt;/a&gt;</description>
+		<enclosure url="https://storage.googleapis.com/savor-podcast/podcast-27.mp3" length="47084691" type="audio/mpeg" />
+		<itunes:subtitle>This is part 1 in our series about the diet industry. We hope you enjoy and look forward to hearing your feedback. Visit iTunes to subscribe. Check out these resources … Continue Reading →</itunes:subtitle>
+		<itunes:author>Danielle Beck-Ellsworth PsyD MFT CEDS &amp; Kelly Hinds RD LD; a combined 26 years of eating disorder expertise</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>32:42</itunes:duration>
+		</item>
+	<item>
+		<title>Taste A Life Free From Food Obsession</title>
+		<link>http://savorpodcast.com/taste-a-life-free-from-food-obsession/</link>
+		<pubDate>Thu, 09 Apr 2015 22:43:30 +0000</pubDate>
+		<guid isPermaLink="false">http://savorpodcast.com/?p=375</guid>
+		<description>If you like what you’ve heard on Savor Podcast &amp; want more, check out Taste, the new eSupport &amp; Education Program created by our co-host, Kelly Hinds. This is a … &lt;a class=&quot;readmore&quot; href=&quot;http://savorpodcast.com/taste-a-life-free-from-food-obsession/&quot;&gt;Continue Reading →&lt;/a&gt;</description>
+		<enclosure url="https://storage.googleapis.com/savor-podcast/podcast-24.mp3" length="3037226" type="audio/mpeg" />
+		<itunes:subtitle>If you like what you’ve heard on Savor Podcast &amp; want more, check out Taste, the new eSupport &amp; Education Program created by our co-host, Kelly Hinds. This is a … Continue Reading →</itunes:subtitle>
+		<itunes:author>Danielle Beck-Ellsworth PsyD MFT CEDS &amp; Kelly Hinds RD LD; a combined 26 years of eating disorder expertise</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>2:06</itunes:duration>
+		</item>
+	<item>
+		<title>The Biggest Open Secret</title>
+		<link>http://savorpodcast.com/the-biggest-open-secret/</link>
+		<pubDate>Sun, 22 Mar 2015 20:05:34 +0000</pubDate>
+		<guid isPermaLink="false">http://savorpodcast.com/?p=361</guid>
+		<description>Amy Costa, PsyD joined us to share the results of her research regarding how working with clients with eating disorders impacts the body image of treatment providers. Amy describes body … &lt;a class=&quot;readmore&quot; href=&quot;http://savorpodcast.com/the-biggest-open-secret/&quot;&gt;Continue Reading →&lt;/a&gt;</description>
+		<enclosure url="https://storage.googleapis.com/savor-podcast/podcast-26.mp3" length="69018771" type="audio/mpeg" />
+		<itunes:subtitle>Amy Costa, PsyD joined us to share the results of her research regarding how working with clients with eating disorders impacts the body image of treatment providers. Amy describes body … Continue Reading →</itunes:subtitle>
+		<itunes:author>Danielle Beck-Ellsworth PsyD MFT CEDS &amp; Kelly Hinds RD LD; a combined 26 years of eating disorder expertise</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>47:56</itunes:duration>
+		</item>
+	<item>
+		<title>Bypassing Perfectionism For Body Acceptance And A More Creative Life</title>
+		<link>http://savorpodcast.com/bypassing-perfectionism-for-body-acceptance-and-a-more-creative-life/</link>
+		<pubDate>Fri, 20 Feb 2015 17:17:40 +0000</pubDate>
+		<guid isPermaLink="false">http://savorpodcast.com/?p=325</guid>
+		<description>Donna Otter, Expressive Arts Therapist Extraordinaire, guest starred in today’s episode to introduce listeners to Expressive Arts Therapy and share how they can get more art in their world. Make sure to … &lt;a class=&quot;readmore&quot; href=&quot;http://savorpodcast.com/bypassing-perfectionism-for-body-acceptance-and-a-more-creative-life/&quot;&gt;Continue Reading →&lt;/a&gt;</description>
+		<enclosure url="https://storage.googleapis.com/savor-podcast/podcast-25.mp3" length="64311088" type="audio/mpeg" />
+		<itunes:subtitle>Donna Otter, Expressive Arts Therapist Extraordinaire, guest starred in today’s episode to introduce listeners to Expressive Arts Therapy and share how they can get more art in their world. Make sure to … Continue Reading →</itunes:subtitle>
+		<itunes:author>Danielle Beck-Ellsworth PsyD MFT CEDS &amp; Kelly Hinds RD LD; a combined 26 years of eating disorder expertise</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>44:39</itunes:duration>
+		</item>
+	<item>
+		<title>Like What You Hear? Want More?</title>
+		<link>http://savorpodcast.com/like-what-you-hear-want-more/</link>
+		<pubDate>Tue, 03 Feb 2015 02:31:11 +0000</pubDate>
+		<guid isPermaLink="false">http://savorpodcast.com/?p=344</guid>
+		<description>If you like what you’ve heard on Savor Podcast &amp; want more, check out Taste, the brand new eSupport &amp; Education Program created by our co-host, Kelly Hinds. This is … &lt;a class=&quot;readmore&quot; href=&quot;http://savorpodcast.com/like-what-you-hear-want-more/&quot;&gt;Continue Reading →&lt;/a&gt;</description>
+		<enclosure url="https://storage.googleapis.com/savor-podcast/podcast-24.mp3" length="3037226" type="audio/mpeg" />
+		<itunes:subtitle>If you like what you’ve heard on Savor Podcast &amp; want more, check out Taste, the brand new eSupport &amp; Education Program created by our co-host, Kelly Hinds. This is … Continue Reading →</itunes:subtitle>
+		<itunes:author>Danielle Beck-Ellsworth PsyD MFT CEDS &amp; Kelly Hinds RD LD; a combined 26 years of eating disorder expertise</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>2:06</itunes:duration>
+		</item>
+	<item>
+		<title>A New Approach to Treating Eating Disorders</title>
+		<link>http://savorpodcast.com/a-new-approach-to-treating-eating-disorders/</link>
+		<pubDate>Sat, 10 Jan 2015 01:26:56 +0000</pubDate>
+		<guid isPermaLink="false">http://savorpodcast.com/?p=320</guid>
+		<description>Susie Morgan &amp; our own Danielle Beck-Ellsworth introduce listeners to the Eye Movement Desensitization and Reprocessing (EMDR) psychotherapy approach and share how they use EMDR for breakthroughs in eating disorder treatment. For more … &lt;a class=&quot;readmore&quot; href=&quot;http://savorpodcast.com/a-new-approach-to-treating-eating-disorders/&quot;&gt;Continue Reading →&lt;/a&gt;</description>
+		<enclosure url="https://storage.googleapis.com/savor-podcast/podcast-23.mp3" length="68127264" type="audio/mpeg" />
+		<itunes:subtitle>Susie Morgan &amp; our own Danielle Beck-Ellsworth introduce listeners to the Eye Movement Desensitization and Reprocessing (EMDR) psychotherapy approach and share how they use EMDR for breakthroughs in eating disorder treatment. For more … Continue Reading →</itunes:subtitle>
+		<itunes:author>Danielle Beck-Ellsworth PsyD MFT CEDS &amp; Kelly Hinds RD LD; a combined 26 years of eating disorder expertise</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>47:18</itunes:duration>
+		</item>
+	<item>
+		<title>Males With Eating Disorders</title>
+		<link>http://savorpodcast.com/males-with-eating-disorders/</link>
+		<pubDate>Sat, 20 Dec 2014 17:36:54 +0000</pubDate>
+		<guid isPermaLink="false">http://savorpodcast.com/?p=315</guid>
+		<description>We were fortunate to have the men in the forefront of eating disorder treatment for males sit down for an interview with us. Dr. Stuart Murray &amp; Leigh Cohn shared … &lt;a class=&quot;readmore&quot; href=&quot;http://savorpodcast.com/males-with-eating-disorders/&quot;&gt;Continue Reading →&lt;/a&gt;</description>
+		<enclosure url="https://storage.googleapis.com/savor-podcast/podcast-22.mp3" length="67342964" type="audio/mpeg" />
+		<itunes:subtitle>We were fortunate to have the men in the forefront of eating disorder treatment for males sit down for an interview with us. Dr. Stuart Murray &amp; Leigh Cohn shared … Continue Reading →</itunes:subtitle>
+		<itunes:author>Danielle Beck-Ellsworth PsyD MFT CEDS &amp; Kelly Hinds RD LD; a combined 26 years of eating disorder expertise</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>46:46</itunes:duration>
+		</item>
+	<item>
+		<title>Happy Holidays!</title>
+		<link>http://savorpodcast.com/happy-holidays/</link>
+		<pubDate>Thu, 27 Nov 2014 01:35:43 +0000</pubDate>
+		<guid isPermaLink="false">http://savorpodcast.com/?p=311</guid>
+		<description>We all know that holidays can be a bundle of joy, stress &amp; controlled chaos. In today’s episode, we share our own experiences with the holidays and discuss suggestions for … &lt;a class=&quot;readmore&quot; href=&quot;http://savorpodcast.com/happy-holidays/&quot;&gt;Continue Reading →&lt;/a&gt;</description>
+		<enclosure url="https://storage.googleapis.com/savor-podcast/podcast-21.mp3" length="46228293" type="audio/mpeg" />
+		<itunes:subtitle>We all know that holidays can be a bundle of joy, stress &amp; controlled chaos. In today’s episode, we share our own experiences with the holidays and discuss suggestions for … Continue Reading →</itunes:subtitle>
+		<itunes:author>Danielle Beck-Ellsworth PsyD MFT CEDS &amp; Kelly Hinds RD LD; a combined 26 years of eating disorder expertise</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>32:06</itunes:duration>
+		</item>
+	<item>
+		<title>Embracing Life With Diabetes</title>
+		<link>http://savorpodcast.com/embracing-life-with-diabetes/</link>
+		<pubDate>Sat, 15 Nov 2014 22:46:50 +0000</pubDate>
+		<guid isPermaLink="false">http://savorpodcast.com/?p=303</guid>
+		<description>Miranda shares her personal story of diabetes and diabulimia, how she overcame their challenges &amp; how she helps others do the same. We are so thankful for Miranda’s community service … &lt;a class=&quot;readmore&quot; href=&quot;http://savorpodcast.com/embracing-life-with-diabetes/&quot;&gt;Continue Reading →&lt;/a&gt;</description>
+		<enclosure url="https://storage.googleapis.com/savor-podcast/podcast-20.mp3" length="67770536" type="audio/mpeg" />
+		<itunes:subtitle>Miranda shares her personal story of diabetes and diabulimia, how she overcame their challenges &amp; how she helps others do the same. We are so thankful for Miranda’s community service … Continue Reading →</itunes:subtitle>
+		<itunes:author>Danielle Beck-Ellsworth PsyD MFT CEDS &amp; Kelly Hinds RD LD; a combined 26 years of eating disorder expertise</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>47:04</itunes:duration>
+		</item>
+	<item>
+		<title>What If You Loved Your Body?</title>
+		<link>http://savorpodcast.com/what-if-you-loved-your-body/</link>
+		<pubDate>Fri, 17 Oct 2014 00:08:49 +0000</pubDate>
+		<guid isPermaLink="false">http://savorpodcast.com/?p=298</guid>
+		<description>What if you loved your body? What if we all did? What if the societal norm was talking about how much we love our hair, face, thighs, stomach, etc instead … &lt;a class=&quot;readmore&quot; href=&quot;http://savorpodcast.com/what-if-you-loved-your-body/&quot;&gt;Continue Reading →&lt;/a&gt;</description>
+		<enclosure url="https://storage.googleapis.com/savor-podcast/podcast-19.mp3" length="64239617" type="audio/mpeg" />
+		<itunes:subtitle>What if you loved your body? What if we all did? What if the societal norm was talking about how much we love our hair, face, thighs, stomach, etc instead … Continue Reading →</itunes:subtitle>
+		<itunes:author>Danielle Beck-Ellsworth PsyD MFT CEDS &amp; Kelly Hinds RD LD; a combined 26 years of eating disorder expertise</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>44:36</itunes:duration>
+		</item>
+	<item>
+		<title>Can You Be Healthy At Any Size?</title>
+		<link>http://savorpodcast.com/can-you-be-healthy-at-any-size/</link>
+		<pubDate>Mon, 29 Sep 2014 23:58:01 +0000</pubDate>
+		<guid isPermaLink="false">http://savorpodcast.com/?p=288</guid>
+		<description>Dr. Linda Bacon educates us on the tenets of Health at Every Size. We are so grateful that she shared her time &amp; expertise and hope that after listening, you … &lt;a class=&quot;readmore&quot; href=&quot;http://savorpodcast.com/can-you-be-healthy-at-any-size/&quot;&gt;Continue Reading →&lt;/a&gt;</description>
+		<enclosure url="https://storage.googleapis.com/savor-podcast/podcast-18.mp3" length="61208368" type="audio/mpeg" />
+		<itunes:subtitle>Dr. Linda Bacon educates us on the tenets of Health at Every Size. We are so grateful that she shared her time &amp; expertise and hope that after listening, you … Continue Reading →</itunes:subtitle>
+		<itunes:author>Danielle Beck-Ellsworth PsyD MFT CEDS &amp; Kelly Hinds RD LD; a combined 26 years of eating disorder expertise</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>42:30</itunes:duration>
+		</item>
+	<item>
+		<title>Paleo Diet Debunked</title>
+		<link>http://savorpodcast.com/paleo-diet-debunked/</link>
+		<pubDate>Thu, 11 Sep 2014 16:39:46 +0000</pubDate>
+		<guid isPermaLink="false">http://savorpodcast.com/?p=281</guid>
+		<description>Season Two is kicking off with a look at the popular Paleo Diet. Our interest was sparked by the September edition of the National Geographic and we would love to … &lt;a class=&quot;readmore&quot; href=&quot;http://savorpodcast.com/paleo-diet-debunked/&quot;&gt;Continue Reading →&lt;/a&gt;</description>
+		<enclosure url="https://storage.googleapis.com/savor-podcast/podcast-17.mp3" length="52612410" type="audio/mpeg" />
+		<itunes:subtitle>Season Two is kicking off with a look at the popular Paleo Diet. Our interest was sparked by the September edition of the National Geographic and we would love to … Continue Reading →</itunes:subtitle>
+		<itunes:author>Danielle Beck-Ellsworth PsyD MFT CEDS &amp; Kelly Hinds RD LD; a combined 26 years of eating disorder expertise</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>36:32</itunes:duration>
+		</item>
+</channel>
+</rss>
